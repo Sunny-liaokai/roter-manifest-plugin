@@ -1,0 +1,10 @@
+node_modules
+dist
+*.css
+*.scss
+*.less
+.idea
+.vscode
+.yarn
+.next
+.vite
